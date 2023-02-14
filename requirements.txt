@@ -1,3 +1,5 @@
-numpy
-matplotlib
-scipy
+MATLAB
+mTRF-Toolbox
+EEG data from [Marion, Guilhem; Di Liberto, Giovanni; Shamma, Shihab (2021), Data from: The music of silence. Part I: Responses to musical imagery encode melodic expectations and acoustics, Dryad, Dataset, https://doi.org/10.5061/dryad.dbrv15f0j]
+
+
