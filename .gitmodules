@@ -1,0 +1,3 @@
+[submodule "music_imagery"]
+	path = music_imagery
+	url = https://github.com/3x10e8/music_imagery
