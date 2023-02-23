@@ -52,7 +52,7 @@ testfold = 1;
 
 % Model hyperparameters
 tmin = 0;
-tmax = 250;
+tmax = 350;
 lambdas = 10.^(-6:2:6);
 
 % Run fast cross-validation
