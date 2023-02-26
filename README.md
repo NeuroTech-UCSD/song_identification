@@ -1,9 +1,12 @@
-# Project-Template
-A template for any future projects</br>
+# Song Identification Project
+[TritonNeuroTech @ UCSD](https://neurotechx.ucsd.edu/) - Intro Project</br>
 </br>
-Project Video: https://youtu.be/</br>
-</br>
-Link to paper: 
+
+## Resources Used
+[Accurate Decoding of Imagined and Heard Melodies](https://www.frontiersin.org/articles/10.3389/fnins.2021.673401/full) </br>
+[The Multivariate Temporal Response Function (mTRF) Toolbox](https://www.researchgate.net/publication/311153152_The_Multivariate_Temporal_Response_Function_mTRF_Toolbox_A_MATLAB_Toolbox_for_Relating_Neural_Signals_to_Continuous_Stimuli) </br>
+[Joint Decorrelation, a Versatile Tool for Multichannel Data Analysis](http://www.sciencedirect.com/science/article/pii/S1053811914004534) </br>
+[Imagined Musical Scale Relationships Decoded from Auditory Complex](https://direct.mit.edu/jocn/article/34/8/1326/110884/Imagined-Musical-Scale-Relationships-Decoded-from) </br>
 
 ## Usage 
 - Run `pip install -r requirements.txt` to install the dependencies.
